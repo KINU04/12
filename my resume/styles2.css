@@ -1,0 +1,35 @@
+.container {
+    width: 600;
+    height: 350;
+    margin: 30%;
+}
+p { text-align: center;
+    font-size: larger;
+    color: rgb(230, 65, 202);
+}
+body {
+    background-color: rgb(211, 230, 105) ;
+}
+img { 
+    border-radius: 8px;
+    height:"450" 
+}
+b {
+    border-width: 3px;
+    border-style: outset;
+    border-color: aquamarine;
+    font-size: 30px;
+}
+.box1 {
+    background-color: rgb(98, 179, 199);
+    height: 40px;
+    width: 100%;
+    text-align: center;
+    font-size: larger;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border:5px solid #9ddb39;
+}
+.box2:hover{
+    color: #bbe773;
+    background: #2e71c9;
+}
